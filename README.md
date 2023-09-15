@@ -8,7 +8,7 @@
 
 ### I have great skills in React framework.
 
-- 🌱 I will be a product of [alxafrica/School](https://www.alxafrica.com/software-engineering-2023](https://tech.alxafrica.com/software-engineering-programme-casablanca)) and I code everyday. 🤣
+- 🌱 I will be a product of [alxafrica/School](https://www.alxafrica.com/) and I code everyday. 🤣
 - 👯 I’m looking to collaborate in Web developement projects.
 - 🤣 My most recent stack is C program, Html, JS and Python.
 - 🤣 I leverage on my experience in L'EIGSI possessing expertise in using some languages for programming.
