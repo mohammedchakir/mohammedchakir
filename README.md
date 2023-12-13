@@ -2,7 +2,7 @@
 
 
 
-![my image](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1280201/retina_1708x683_cover-0325-LearnCandC__Languages_Dan_Newsletter-743100f051077054fa1cc613ff4523a2.png)
+![DALL·E 2023-12-14 01 23 17 - An image of a laptop with a vibrant display showing colorful abstract data visualization graphics that suggest a dynamic and interconnected network or](https://github.com/mohammedchakir/alx-higher_level_programming/assets/129831433/e8d4634b-d6e5-4f06-9deb-b36e10666b37)
 
 
 
