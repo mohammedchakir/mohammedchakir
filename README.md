@@ -1,3 +1,5 @@
+<img src="https://github.com/mohammedchakir/alx-higher_level_programming/assets/129831433/298bda1a-0da0-4d69-aa62-6f7a14cd68cd" width="160" height=auto />
+
 ### Greetings! As a dedicated Software Engineer, my skills have been sharply refined over a 3-year tenure at L'EIGSI. My educational voyage propelled me into the realms of ALX-School, where I triumphantly cleared the Software Engineering Program's admission test as a full-stack engineer, an achievement fueled by the Mastercard Foundation partnership. This rigorous program is a maelstrom of educational experiences, anchored in cooperative, project-oriented learning alongside fellow tech enthusiasts. My passion for software engineering continues to flourish as I innovate and expand my expertise, all while building upon the robust educational framework provided by ALX-School.
 
 
