@@ -1,4 +1,4 @@
-![Earth](https://github.com/mohammedchakir/alx-higher_level_programming/assets/129831433/298bda1a-0da0-4d69-aa62-6f7a14cd68cd) <img width="130" alt="687474703a2f2f7777772e616c786166726963612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30312f6865616465722d6c6f676f2e706e67" src="https://github.com/mohammedchakir/Recipe_hub/assets/129831433/05c60329-e3b9-43f4-97e0-b68f0ea2181f">
+![Earth](https://github.com/mohammedchakir/alx-higher_level_programming/assets/129831433/298bda1a-0da0-4d69-aa62-6f7a14cd68cd) 
 
 
 ### Greetings! As a dedicated Software Engineer, my skills have been sharply refined over a 3-year tenure at L'EIGSI. My educational voyage propelled me into the realms of ALX-School, where I triumphantly cleared the Software Engineering Program's admission test as a full-stack engineer, an achievement fueled by the Mastercard Foundation partnership. This rigorous program is a maelstrom of educational experiences, anchored in cooperative, project-oriented learning alongside fellow tech enthusiasts. My passion for software engineering continues to flourish as I innovate and expand my expertise, all while building upon the robust educational framework provided by ALX-School.
@@ -43,7 +43,6 @@
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://github.com/mohammedchakir/alx-higher_level_programming/assets/129831433/98800f73-343a-40c0-8d6a-8127b06e134b)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666c61736b2d2532333030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465](https://github.com/mohammedchakir/alx-higher_level_programming/assets/129831433/2cbc8b6d-1e92-40c1-9224-d9351a8d3b3c)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d3030433443433f7374796c653d666f722d7468652d6261646765266c6f676f3d63616e7661266c6f676f436f6c6f723d7768697465](https://github.com/mohammedchakir/alx-low_level_programming/assets/129831433/b50fbffd-8286-4327-a75b-531e5837371e)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d3037363941443f7374796c653d666c6174266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465](https://github.com/mohammedchakir/Recipe_hub/assets/129831433/c639402c-a687-46ec-97d3-0acb008ca662)
 
 
 
